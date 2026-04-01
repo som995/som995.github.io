@@ -1,6 +1,6 @@
 console.log('hello world');
 
-function click() {
+function change() {
   let cool = document.getElementById('boo');
   cool.textContent = 'click'
 }
